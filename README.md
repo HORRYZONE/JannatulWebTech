@@ -41,6 +41,19 @@ want.
 
 
 
-Contribution
+# Project Contribution
+
+Name	Contributions
+Yyy
+(matricNo)	•	Pages: Home page, About, CatalogueA and Contacts
+•	 Web elements: Navigation buttons
+•	Added 10 products in Catalogue A with appropriate styling
+•	JavaScript event handlers for Add-To-Cart and storage of data using JSON
+
+Bbbb (matricNo)	•	Pages: History, CatalogueB, Add-To-Cart and Announcement
+•	Web elements: Logo
+•	Added 10 products in Catalogue B with appropriate styling
+•	JavaScript event handlers for Add-To-Cart and storage of data using JSON
+
 
 Reference
