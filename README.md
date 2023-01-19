@@ -39,7 +39,6 @@ want.
 
 # Project Site Map
 
-![image](https://user-images.githubusercontent.com/122993519/213462205-8c3f83e5-fe1f-47eb-93e0-f264c7ebb8e1.png)
 
 
 Contribution
