@@ -45,7 +45,8 @@ want.
 
 | Name and Matric No.  | Contribution(s) |
 | ------------- | ------------- |
-| Muhammad Azim Aizat bin Adnan (2115493)| Pages: About us and Forget Password. Design and Create the pages. Link pages and make navigation. State message for verification message for password.|
+| Muhammad Azim Aizat bin Adnan (2115493)| Pages: About us and Forget Password. 
+Design and Create the pages. Link pages and make navigation. State message for verification message for password.|
 | Content Cell  | Content Cell  |
 
 
