@@ -2,6 +2,7 @@
 FoodHunting web project
 
 Project Description
+
 We have chosen food and beverage as the theme for our project. Our group has
 decided to launch a foods and beverages searching organization specifically for this
 undertaking. A nonprofit group called Food Hunt was founded to assist consumers in
