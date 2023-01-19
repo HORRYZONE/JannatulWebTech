@@ -1,7 +1,7 @@
 # JannatulWebTech
 FoodHunting web project
 
-Project Description
+# Project Description
 
 We have chosen food and beverage as the theme for our project. Our group has
 decided to launch a foods and beverages searching organization specifically for this
@@ -36,6 +36,11 @@ food restaurants according to the restaurant type to their liking so it will not
 for them to choose. From that, they can review the details regarding the stalls or
 restaurants of their search so that they can know what kind of food or beverage they
 want.
+
+# Project Site Map
+
+![image](https://user-images.githubusercontent.com/122993519/213462205-8c3f83e5-fe1f-47eb-93e0-f264c7ebb8e1.png)
+
 
 Contribution
 
