@@ -56,5 +56,8 @@ want.
 
 | Web elements  | Name | Use of third party resources and modifications (if any) | Modifications (if any) |
 | ------------- | ------------- | ------------- | ------------- |
+| Maps | Google Maps | Google Maps embed link is used in all shop profile pages |
+| Graphics in Home | Image1.svg | Image is from pexels.comh,igh quality stock photos.| Resized using InkSpace|
+| Icon | FontAwesome | Icons in the footer are from fontawesome.com | Resized using code provided by fontawesome|
 
 # Reference
