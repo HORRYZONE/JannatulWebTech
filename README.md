@@ -48,7 +48,7 @@ want.
 | Muhammad Azim Aizat bin Adnan (2115493)| - Pages: About us and Forgot Password.<br />- Help linking pages.<br />- Javascript message in forgot password page.|
 | Tengku Zarul Fariman bin Tengku Zahidi (2117365)  | - Pages: Donation and Donation Receipt <br/> - Javascript event handlers for page Donation Receipt. <br/> - Help styling pages.|
 | Muhammad Syahin bin Saiful Muzamir (2117563)  | - Pages: Home and Login <br/> - Provide the template (Navigation buttons and footer) for the websites. <br/> - Integrate and debugging all pages. <br/> - Provide skeleton code for page Help. |
-| Putra Ahmad Maarifudin bin Ahmad Mizanudin (2012657)  | - Pages: Help and Shoplist <br/> - Added 4 shops for each state to shoplist. <br/>  - Complete all the shops profile page.|
+| Putra Ahmad Maarifudin bin Ahmad Mizanudin (2012657)  | - Pages: Help and Shoplist. <br/> - Find 4 shops for each state and added it to shoplist page. <br/>  - Completed all the shops profile page. |
 | Nor Danish Fitri Bin Nor Syamaiza (2112125) | - Pages: Hunt and Shop Profile <br/> - Added 3 states in hunt page. <br/> - Provide skeleton code for shoplist and shop profile.|
 
 # Use of Third Party Resources
