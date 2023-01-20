@@ -54,4 +54,7 @@ want.
 
 # Use of Third Party Resources
 
+| Web elements  | Name | Use of third party resources and modifications (if any) | Modifications (if any) |
+| ------------- | ------------- |
+
 # Reference
