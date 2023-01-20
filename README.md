@@ -47,7 +47,7 @@ want.
 | ------------- | ------------- |
 | Muhammad Azim Aizat bin Adnan (2115493)| - Pages: About us and Forget Password.<br />- Design and Create the pages.<br />- Link pages.<br />- State message for verification email for new password.|
 | Tengku Zarul Fariman bin Tengku Zahidi (2117365)  | - Pages: Donation and Donation Receipt <br/>  |
-| Content Cell  | Content Cell  |
+| Muhammad Syahin bin Saiful Muzamir  | - Pages: Home and Login <br/>  |
 
 # Use of Third Party Resources
 
