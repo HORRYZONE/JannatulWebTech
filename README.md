@@ -45,10 +45,10 @@ want.
 
 | Name and Matric No.  | Contribution(s) |
 | ------------- | ------------- |
-| Muhammad Azim Aizat bin Adnan (2115493)| - Pages: About us and Forget Password.<br />- Design and Create the pages.<br />- Link pages.<br />- State message for verification email for new password.|
-| Tengku Zarul Fariman bin Tengku Zahidi (2117365)  | - Pages: Donation and Donation Receipt <br/>  |
-| Muhammad Syahin bin Saiful Muzamir (2117563)  | - Pages: Home and Login <br/>  |
-| Putra Ahmad Maarifudin bin Ahmad Mizanudin (2012657)  | - Pages: Help. 3 Shoplist Pages for All States, 12 Shop Information Pages <br/>  |
+| Muhammad Azim Aizat bin Adnan (2115493)| - Pages: About us and Forgot Password.<br />- Help designing pages.<br />- Link pages.<br />- State message for verification email for new password.|
+| Tengku Zarul Fariman bin Tengku Zahidi (2117365)  | - Pages: Donation and Donation Receipt <br/> - Javascript event handlers for page Donation Receipt <br/> - Help styling profile pages|
+| Muhammad Syahin bin Saiful Muzamir (2117563)  | - Pages: Home and Login <br/> - Provide the template (Navigation buttons and footer) for the websites. <br/> - Integrate and debugging all pages. <br/> - Provide skeleton code for page Help.  |
+| Putra Ahmad Maarifudin bin Ahmad Mizanudin (2012657)  | - Pages: Help, Shoplist Pages for All States, All Shop Profile Pages <br/> - Added 12 shops to shoplist <br/>  |
 
 # Use of Third Party Resources
 
