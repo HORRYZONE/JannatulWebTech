@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Post Donation Page</title>
+    <link href="https://fonts.googleapis.com/css?family=Jost&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="receiptStyle.css">
+    <script src="https://kit.fontawesome.com/9bd294abca.js" crossorigin="anonymous"></script>
+  </head>
+
+  <header>
+    <a href="Home.html">
+    <img src="assets/Logo.PNG" alt="Logo" class="logo">
+    </a>
+    <a href="Aboutus.html" class="style1 About">About Us</a>
+    <a href="master.html" class="style1 Food">Hunt</a>
+    <a href="donation.html" class="style1 Donation">Donation</a>
+    <a href="help.html" class="style1 Help">Help</a>
+    <a href="Login.html" class="style1 Sign">Login</a>
+  </header>
+
+  <body>
+    <div class="headnappreciation">
+      <h1><strong>Receipt and Appreciation</strong></h1>
+      <!-- Appreciation to the Donator -->
+      <p id=donationAppreciation> Thank you for your generous donation to the FoodHunt organization. We are thrilled to gain your support.
+        Through your donation, we will be able to provide more meals for the needy people and contribute to more charities out there.
+        You truly make the difference for them, and we are extremely grateful!
+      </p>
+
+      <br>
+    </div>
+    <div class="donationReceiptDetails" id="donReceipt">
+      <h2>Donation Details</h2>
+      <p><strong>Reference No. :</strong> A001</p>
+      <p><strong>Name : </strong></p> <p id="nameOutput">Syahin</p>
+      <p><strong>Email Address : </strong></p> <p id="emailOutput">syahinsem@gmail.com</p>
+      <p><strong>Donation Amount :</strong></p> <p id="donationOutput">RM 50</p>
+    </div>
+    <div class="buttonDiv">
+      <button type="button" name="button" id="backButton" onclick="returnFunc()">Return</button>
+      <button type="button" name="button" id="printButton" onclick="printDiv()">Print</button>
+    </div>
+    <script src="donationScript.js" charset="utf-8"></script>
+  </body>
+
+  <footer>
+    <p class="style2 Contact">Contact Us</p>
+    <p class="style2 Tel">Tel.No: 012-345-6789</p>
+    <p class="style2 Email">Email: FoodHunt@gmail.com</p>
+    <p class="style2 Copy">© Copyright 2022</p>
+    <p class="style2 Follow">Follow Us</p>
+    <a href="https://www.facebook.com/">
+      <i class="fa-brands fa-square-facebook fa-3x"></i>
+    </a>
+    <a href="https://www.instagram.com/">
+      <i class="fa-brands fa-square-instagram fa-3x"></i>
+    </a>
+    <a href="https://twitter.com/">
+      <i class="fa-brands fa-square-twitter fa-3x"></i>
+    </a>
+  </footer>
+</html>

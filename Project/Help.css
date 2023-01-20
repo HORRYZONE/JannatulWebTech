@@ -1,0 +1,260 @@
+* {
+    background-color: rgba(250, 244, 241, 1);
+}
+
+header {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo{
+    width: 220px;
+    height: 150px;
+    position: relative;
+    left: 41px;
+  }
+
+.style1{
+  color: rgba(169, 207, 84, 1);
+  position: absolute;
+  top: 56px;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 20px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.About{
+  left: 310px;
+}
+
+.Food{
+  left: 442px;
+}
+
+.Donation{
+  left: 537px;
+}
+
+.Help{
+  left: 661px;
+  font-weight: bold;
+}
+
+.Sign{
+  left: 1369px;
+  text-decoration: underline;
+}
+
+footer{
+  background: rgba(169, 207, 84, 1);
+  width: 99%;
+  height: 130px;
+  position: absolute;
+  top: 924px;
+}
+
+.style2{
+  background: rgba(169, 207, 84, 1);
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 20px;
+  text-align: left;
+}
+
+.Contact{
+  width: 180px;
+  left: 80px;
+}
+
+.Tel{
+  width: 203px;
+  top: 36px;
+  left: 80px;
+}
+
+.Email{
+  width: 268px;
+  top: 36px;
+  left: 330px;
+}
+
+.Copy{
+  width: 166px;
+  top: 72px;
+  left: 80px;
+}
+
+.Follow{
+  width: 180px;
+  left: 1139px;
+}
+
+.fa-brands{
+  background-color: transparent;
+  color: rgba(250, 244, 241, 1);
+  top: 50px;
+  position: absolute;
+}
+
+.fa-square-facebook{
+  left: 1139px;
+}
+
+.fa-square-instagram{
+  left: 1206px;
+}
+
+.fa-square-twitter{
+  left: 1273px;
+}
+
+.hiw{
+    color: black;
+    font-family: Jost;
+    font-weight: Medium;
+    font-size: 80px;
+    text-align: left;
+    text-decoration: none;
+    margin-left: 164px;
+    margin-bottom: 0px;
+    bottom: 75px;
+    position: relative;
+}
+
+.Step1 {
+  width: 385px;
+  height: 70px;
+  position: absolute;
+  top: 320px;
+  left: 163px;
+}
+
+.Text1 {
+  width: 280px;
+  color: rgba(33, 36, 39, 1);
+  position: absolute;
+  top: 1px;
+  left: 105px;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 16px;
+  text-align: left;
+}
+
+.Icon1 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 14px;
+}
+
+.Step2 {
+  width: 385px;
+  height: 70px;
+  position: absolute;
+  top: 320px;
+  left: 750px;
+}
+
+.Text2 {
+  width: 280px;
+  color: rgba(33, 36, 39, 1);
+  position: absolute;
+  top: 1px;
+  left: 105px;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 16px;
+  text-align: left;
+}
+
+.Icon2 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 14px;
+}
+
+.Step3 {
+  width: 385px;
+  height: 70px;
+  position: absolute;
+  top: 500px;
+  left: 163px;
+}
+
+.Text3 {
+  width: 280px;
+  color: rgba(33, 36, 39, 1);
+  position: absolute;
+  top: 1px;
+  left: 105px;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 16px;
+  text-align: left;
+}
+
+.Icon3 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 14px;
+}
+
+.Step4 {
+  width: 385px;
+  height: 70px;
+  position: absolute;
+  top: 500px;
+  left: 750px;
+}
+
+.Text4 {
+  width: 280px;
+  color: rgba(33, 36, 39, 1);
+  position: absolute;
+  top: 1px;
+  left: 105px;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 16px;
+  text-align: left;
+}
+
+.Icon4 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 14px;
+}
+
+.Step5 {
+  width: 385px;
+  height: 70px;
+  position: absolute;
+  top: 680px;
+  left: 163px;
+}
+
+.Text5 {
+  width: 280px;
+  color: rgba(33, 36, 39, 1);
+  position: absolute;
+  top: 1px;
+  left: 105px;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 16px;
+  text-align: left;
+}
+
+.Icon5 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 14px;
+}

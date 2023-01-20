@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Donation Page</title>
+    <link href="https://fonts.googleapis.com/css?family=Jost&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="donationStyle.css">
+    <script src="https://kit.fontawesome.com/9bd294abca.js" crossorigin="anonymous"></script>
+  </head>
+
+  <header>
+    <a href="Home.html">
+    <img src="assets/Logo.PNG" alt="Logo" class="logo">
+    </a>
+    <a href="Aboutus.html" class="style1 About">About Us</a>
+    <a href="master.html" class="style1 Food">Hunt</a>
+    <a href="donation.html" class="style1 Donation">Donation</a>
+    <a href="help.html" class="style1 Help">Help</a>
+    <a href="Login.html" class="style1 Sign">Login</a>
+  </header>
+
+  <body>
+    <div class="headndesc">
+      <h1><strong>Donation</strong></h1>
+      <!-- Description of the donation page -->
+      <p id=donationDescription>Countless people are starving and constantly in need of your support.
+        By making a donation on our page, all of the earnings will be fully used to provide meals for the homeless and to be donated to charities.
+        We believe that every donation matters and we can achieve a greater outcome in lessening the burdens of these people by working together.
+      </p>
+      <h2>Donation Details</h2>
+      <br>
+    </div>
+    <div class="donationInputs">
+      <label for="name">Name: </label> &nbsp&nbsp
+      <input type="text" value="" id="nameInput">
+      <span id="notiName"></span>
+      <br>
+      <label for="email">Email : </label> &nbsp&nbsp
+      <input type="email" name="" id="emailInput">
+      <span id="notiEmail"></span>
+      <br>
+      <label for="amount">Amount : </label> &nbsp&nbsp
+      <label for="donationAmount">RM</label>
+      <input type="number" class="donationAmount" min="1" id="donationAmount">
+      <span id="notiAmount"></span>
+      <p style="display:inline">or pick any preset values below.</p>
+      <br>
+      <span id="tabDistance"></span>
+      <button type="button" class="valueButtons" onclick="firstValue()">RM10</button>
+      <button type="button" class="valueButtons" onclick="secondValue()">RM25</button>
+      <button type="button" class="valueButtons" onclick="thirdValue()">RM50</button>
+      <button type="button" class="valueButtons" onclick="fourthValue()">RM100</button>
+      <br><br>
+      <label for="paymentType">Payment Type : </label>
+      <input type="radio" id="onlineB" name="pType" value="onlineB" checked>
+      <label for="onlineBanking">Online Banking</label>
+      <input type="radio" id="debCred" name="pType" value="debCred">
+      <label for="debitCredit">Debit/Credit</label>
+      <input type="radio" id="paypal" name="pType" value="paypal">
+      <label for="paypal">PayPal</label>
+      <br><br><br>
+      <input type="submit" name="" value="Submit" id="submitButton" onclick="submitReceipt()">
+    </div>
+
+    <script src="donationScript.js" charset="utf-8"></script>
+
+  </body>
+
+  <footer>
+    <p class="style2 Contact">Contact Us</p>
+    <p class="style2 Tel">Tel.No: 012-345-6789</p>
+    <p class="style2 Email">Email: FoodHunt@gmail.com</p>
+    <p class="style2 Copy">© Copyright 2022</p>
+    <p class="style2 Follow">Follow Us</p>
+    <a href="https://www.facebook.com/">
+      <i class="fa-brands fa-square-facebook fa-3x"></i>
+    </a>
+    <a href="https://www.instagram.com/">
+      <i class="fa-brands fa-square-instagram fa-3x"></i>
+    </a>
+    <a href="https://twitter.com/">
+      <i class="fa-brands fa-square-twitter fa-3x"></i>
+    </a>
+  </footer>
+</html>

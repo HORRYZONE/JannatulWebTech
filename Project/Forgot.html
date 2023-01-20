@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <style>
+    h1{
+      text-align: center;
+    }
+    </style>
+    <meta charset="utf-8">
+    <title>Forgot Password</title>
+    <link href="https://fonts.googleapis.com/css?family=Jost&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="Login.css">
+    <script src="https://kit.fontawesome.com/9bd294abca.js" crossorigin="anonymous"></script>
+
+  </head>
+
+  <header>
+  <nav>
+    <a href="Home.html">
+    <img src="assets/Logo.PNG" alt="Logo" class="logo">
+    </a>
+    <a href="Aboutus.html" class="style1 About">About Us</a>
+    <a href="master.html" class="style1 Food">Hunt</a>
+    <a href="donation.html" class="style1 Donation">Donation</a>
+    <a href="help.html" class="style1 Help">Help</a>
+    <a href="Login.html" class="style1 Sign">Login</a>
+  </nav>
+  </header>
+  <body>
+
+    <h1>New password</h1>
+      <form method="post">
+
+      <div class="container">
+      <label for="email"><b>Email Address</b></label><br>
+      <input type="text" placeholder="Enter Email Address" name="email" required><br>
+
+      <label for="pass"><b>New Password</b></label><br>
+      <input type="password" placeholder="Enter New Password" name="pass" required><br>
+
+      <button type="button" name="button" onclick="displayText();">Enter</button><br>
+      </form>
+
+      <div id="result">
+
+      </div>
+      <script type="text/javascript">
+      function displayText(){
+        document.getElementById('result').textContent = "We will send verification in your email"
+      }
+
+      </script>
+      </div>
+
+  </body>
+  <footer>
+    <p class="style2 Contact">Contact Us</p>
+    <p class="style2 Tel">Tel.No: 012-345-6789</p>
+    <p class="style2 Email">Email: FoodHunt@gmail.com</p>
+    <p class="style2 Copy">© Copyright 2022</p>
+    <p class="style2 Follow">Follow Us</p>
+    <a href="https://www.facebook.com/">
+      <i class="fa-brands fa-square-facebook fa-3x"></i>
+    </a>
+    <a href="https://www.instagram.com/">
+      <i class="fa-brands fa-square-instagram fa-3x"></i>
+    </a>
+    <a href="https://twitter.com/">
+      <i class="fa-brands fa-square-twitter fa-3x"></i>
+    </a>
+  </footer>
+</html>

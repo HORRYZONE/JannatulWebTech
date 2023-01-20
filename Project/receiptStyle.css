@@ -1,0 +1,182 @@
+* {
+    background-color: rgba(250, 244, 241, 1);
+}
+
+/*Receipt CSS Starts here*/
+body{
+  font-family: Jost;
+}
+
+.headnappreciation{
+  width: 80%;
+  margin-top: 80px;
+  padding-left: 100px;
+}
+
+.donationReceiptDetails{
+  width: 50%;
+  height: auto;
+  margin-left: 100px;
+  padding-left: 20px;
+  border: 2px solid #A9CF54;
+  display: inline-block;
+}
+
+.buttonDiv{
+  padding-left: 100px;
+  margin-top: 20px;
+}
+
+#backButton{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 10px;
+  border: none;
+  background-color: #dd7973;
+  font-weight: bold;
+  box-shadow: 0 5px #999;
+}
+
+#backButton:hover{
+  background-color: #f77b72;
+}
+
+#backButton:active{
+  background-color: #f77b72;
+  box-shadow: 0 2px #999;
+  transform: translateY(3px);
+}
+
+#printButton{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 10px;
+  border: none;
+  background-color: #dd7973;
+  font-weight: bold;
+  box-shadow: 0 5px #999;
+}
+
+#printButton:hover{
+  background-color: #f77b72;
+}
+
+#printButton:active{
+  background-color: #f77b72;
+  box-shadow: 0 2px #999;
+  transform: translateY(3px);
+}
+/*Receipt CSS Ends here*/
+
+header {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo{
+    width: 220px;
+    height: 150px;
+    position: relative;
+    left: 41px;
+  }
+
+.style1{
+  color: rgba(169, 207, 84, 1);
+  position: absolute;
+  top: 56px;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 20px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.About{
+  left: 310px;
+}
+
+.Food{
+  left: 442px;
+}
+
+.Donation{
+  left: 537px;
+  font-weight: bold;
+}
+
+.Help{
+  left: 661px;
+}
+
+.Sign{
+  left: 1369px;
+  text-decoration: underline;
+}
+
+footer{
+  background: rgba(169, 207, 84, 1);
+  width: 99%;
+  height: 130px;
+  position: absolute;
+  top: 924px;
+}
+
+.style2{
+  background: rgba(169, 207, 84, 1);
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 20px;
+  text-align: left;
+}
+
+.Contact{
+  width: 180px;
+  left: 80px;
+}
+
+.Tel{
+  width: 203px;
+  top: 36px;
+  left: 80px;
+}
+
+.Email{
+  width: 268px;
+  top: 36px;
+  left: 330px;
+}
+
+.Copy{
+  width: 166px;
+  top: 72px;
+  left: 80px;
+}
+
+.Follow{
+  width: 180px;
+  left: 1139px;
+}
+
+.fa-brands{
+  background-color: transparent;
+  color: rgba(250, 244, 241, 1);
+  top: 50px;
+  position: absolute;
+}
+
+.fa-square-facebook{
+  left: 1139px;
+}
+
+.fa-square-instagram{
+  left: 1206px;
+}
+
+.fa-square-twitter{
+  left: 1273px;
+}

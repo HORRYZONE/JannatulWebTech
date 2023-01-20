@@ -1,0 +1,203 @@
+* {
+    background-color: rgba(250, 244, 241, 1);
+}
+
+header {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/*About Us CSS*/
+
+body{
+  font-family: Jost;
+}
+
+h1 {
+  text-align: center;
+  font-size: 70px;
+}
+
+#d1n2 {
+    text-align: left;
+}
+
+h2 {
+  background: transparent;
+}
+
+.About{
+    font-weight: bold;
+}
+
+.headerDiv{
+  width: 70%;
+  margin-top: 20px;
+  margin-left: 210px;
+  margin-right: 30px;
+  border-radius: 20px;
+  background-color: #A9CF54;
+}
+
+#aboutHead{
+  background: transparent;
+}
+
+.leftTeam{
+  float: left;
+  margin-left: 350px;
+  color: #black;
+  font-weight: bold;;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #A9CF54;
+  border-radius: 20px;
+}
+
+.rightTeam{
+  float: right;
+  margin-right: 320px;
+  width: 40%;
+  border-bottom: 2px solid #A9CF54;
+}
+
+.leftFoodhunt{
+  float: left;
+  margin-left: 320px;
+  width: 40%;
+  border-bottom: 2px solid #A9CF54;
+}
+
+.rightFoodhunt{
+  float: right;
+  margin-right: 350px;
+  color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom: 2px solid #A9CF54;
+  background-color: #A9CF54;
+  border-radius: 20px;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+#sdgDesc{
+  width: 65%;
+  text-align: center;
+  padding-left: 250px;
+}
+
+.sdg{
+  text-align: center;
+}
+
+/*About Us CSS*/
+
+.logo{
+    width: 220px;
+    height: 150px;
+    position: relative;
+    left: 41px;
+  }
+
+.style1{
+  color: rgba(169, 207, 84, 1);
+  position: absolute;
+  top: 56px;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 20px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.About{
+  left: 310px;
+}
+
+.Food{
+  left: 442px;
+}
+
+.Donation{
+  left: 537px;
+}
+
+.Help{
+  left: 661px;
+}
+
+.Sign{
+  left: 1369px;
+  text-decoration: underline;
+}
+
+footer{
+  background: rgba(169, 207, 84, 1);
+  width: 99%;
+  height: 130px;
+  position: absolute;
+  top: 1200px;
+}
+
+.style2{
+  background: rgba(169, 207, 84, 1);
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 20px;
+  text-align: left;
+}
+
+.Contact{
+  width: 180px;
+  left: 80px;
+}
+
+.Tel{
+  width: 203px;
+  top: 36px;
+  left: 80px;
+}
+
+.Email{
+  width: 268px;
+  top: 36px;
+  left: 330px;
+}
+
+.Copy{
+  width: 166px;
+  top: 72px;
+  left: 80px;
+}
+
+.Follow{
+  width: 180px;
+  left: 1139px;
+}
+
+.fa-brands{
+  background-color: transparent;
+  color: rgba(250, 244, 241, 1);
+  top: 50px;
+  position: absolute;
+}
+
+.fa-square-facebook{
+  left: 1139px;
+}
+
+.fa-square-instagram{
+  left: 1206px;
+}
+
+.fa-square-twitter{
+  left: 1273px;
+}

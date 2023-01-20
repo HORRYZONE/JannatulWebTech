@@ -1,0 +1,166 @@
+* {
+    background-color: rgba(250, 244, 241, 1);
+}
+
+header {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo{
+    width: 220px;
+    height: 150px;
+    position: relative;
+    left: 41px;
+  }
+
+.style1{
+  color: rgba(169, 207, 84, 1);
+  position: absolute;
+  top: 56px;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 20px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.About{
+  left: 310px;
+}
+
+.Food{
+  left: 442px;
+}
+
+.Donation{
+  left: 537px;
+}
+
+.Help{
+  left: 661px;
+}
+
+.Sign{
+  left: 1369px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+footer{
+  background: rgba(169, 207, 84, 1);
+  width: 99%;
+  height: 130px;
+  position: absolute;
+  top: 924px;
+}
+
+.style2{
+  background: rgba(169, 207, 84, 1);
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  font-family: Jost;
+  font-weight: Medium;
+  font-size: 20px;
+  text-align: left;
+}
+
+.Contact{
+  width: 180px;
+  left: 80px;
+}
+
+.Tel{
+  width: 203px;
+  top: 36px;
+  left: 80px;
+}
+
+.Email{
+  width: 268px;
+  top: 36px;
+  left: 330px;
+}
+
+.Copy{
+  width: 166px;
+  top: 72px;
+  left: 80px;
+}
+
+.Follow{
+  width: 180px;
+  left: 1139px;
+}
+
+.fa-brands{
+  background-color: transparent;
+  color: rgba(250, 244, 241, 1);
+  top: 50px;
+  position: absolute;
+}
+
+.fa-square-facebook{
+  left: 1139px;
+}
+
+.fa-square-instagram{
+  left: 1206px;
+}
+
+.fa-square-twitter{
+  left: 1273px;
+}
+
+body{
+  font-family: Jost;
+  font-weight: Medium;
+}
+
+h2{
+  text-align: center;
+}
+
+form {
+  border: 3px solid rgba(169, 207, 84, 1);
+  width: 400px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+}
