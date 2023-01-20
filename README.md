@@ -61,9 +61,9 @@ want.
 | Icon | FontAwesome | Icons in the footer are from fontawesome.com | Resized using code provided by fontawesome|
 
 # Reference
-Google Maps retrieved 20 Jan 2023 from https://www.geeksforgeeks.org/how-to-add-google-map-inside-html-page-without-using-api-key/
-Login style retrieved 20 Jan 2023 from https://www.w3schools.com/howto/howto_css_login_form.asp
-Profile pic retrieved 20 Jan 2023 https://www.w3schools.com/howto/howto_css_image_avatar.asp
-Button retrieved 20 Jan 2023 https://linuxhint.com/make-button-link-another-page-html/#:~:text=To%20create%20a%20button%20link%20to%20another%20page%20in%20HTML,path%20of%20the%20desired%20page.
-Icon retrieved 20 Jan 2023 https://fontawesome.com/
+Google Maps retrieved 20 Jan 2023 from https://www.geeksforgeeks.org/how-to-add-google-map-inside-html-page-without-using-api-key/ <br>
+Login style retrieved 20 Jan 2023 from https://www.w3schools.com/howto/howto_css_login_form.asp <br>
+Profile pic retrieved 20 Jan 2023 https://www.w3schools.com/howto/howto_css_image_avatar.asp <br>
+Button retrieved 20 Jan 2023 https://linuxhint.com/make-button-link-another-page-html/#:~:text=To%20create%20a%20button%20link%20to%20another%20page%20in%20HTML,path%20of%20the%20desired%20page. <br>
+Icon retrieved 20 Jan 2023 https://fontawesome.com/ <br>
 
